@@ -1,1 +1,1 @@
-# tempalte-ansible-tenant
+# template-ansible-tenant
